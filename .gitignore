@@ -1,0 +1,5 @@
+.vscode
+env
+datum
+*.h5
+*cache*
